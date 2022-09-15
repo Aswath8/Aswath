@@ -1,0 +1,11 @@
+body
+{
+    background-image:url(https://th.bing.com/th/id/R.accc784c8469024ff5d1010dcbf32637?rik=SYBdGHEQ3zt7KA&riu=http%3a%2f%2fwallpapercave.com%2fwp%2fx3ya96w.jpg&ehk=OkMcvGLHB1fcjx%2b%2bCWMqZq1IF0q0XoRzpcNy8Z6BFTo%3d&risl=&pid=ImgRaw&r=0);
+}
+form{
+    font-size: x-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+button:hover{
+    background-color: skyblue;
+}
